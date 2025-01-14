@@ -14,7 +14,7 @@ export const categories = [
     { name: "New", icon: <AiFillHome />, type: "home" },
     { name: "Trending", icon: <MdLocalFireDepartment />, type: "category" },
     { name: "Music", icon: <CgMusicNote />, type: "category" },
-    { name: "Films", icon: <FiFilm />, type: "category" },
+    { name: "Movies", icon: <FiFilm />, type: "category" },
     { name: "Live", icon: <MdLiveTv />, type: "category" },
     { name: "Gaming", icon: <IoGameControllerSharp />, type: "category" },
     { name: "News", icon: <ImNewspaper />, type: "category" },
