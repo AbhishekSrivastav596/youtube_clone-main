@@ -1,6 +1,6 @@
 # YouTube Clone
 
-### TThis is a simple YouTube clone built using React. It allows users to search for videos, view video details, and watch videos. The project demonstrates the use of React along with RapidAPI for fetching data and Tailwind CSS for styling.
+### This is a simple YouTube clone built using React. It allows users to search for videos, view video details, and watch videos. The project demonstrates the use of React along with RapidAPI for fetching data and Tailwind CSS for styling.
 
 ## Features
 ### · Search for videos using keywords
@@ -10,6 +10,6 @@
 ### · Responsive design using Tailwind CSS
 
 ## Tech Stack
-### · Frontend: React, Redux (for state management), Axios (for API calls), React Router
+### · Frontend: React, Axios (for API calls), React Router
 ### · API: YouTube API via RapidAPI
 ### · Styling: Tailwind CSS
